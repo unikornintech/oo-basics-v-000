@@ -1,4 +1,5 @@
 # shoe.rb 
 
-class Shoe 
+class Shoe
+  def initialize
 end 
